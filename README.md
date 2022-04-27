@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This aplication represents a news  app with voice control AI
-All that you need to do is just ask ALAN, what kind of articles are you looking for. 
+This aplication represents a news  app with voice control AI.\
+All that you need to do is just ask ALAN, what kind of articles are you looking for. \
 The system is able to give the specific type of articles by : tag, category, or just simple subjects. 
 
 
